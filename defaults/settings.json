@@ -1,0 +1,22 @@
+{
+  "review_wip_limit": 5,
+  "ready_cards_min": 3,
+  "lapse_days": 14,
+  "decision_idle_days": 3,
+  "builder_ceiling": 3,
+  "builder_quiet_minutes": 30,
+  "review_rounds_max": 2,
+  "appetite_days": {"small": 2, "medium": 5, "large": 10},
+  "report_max_lines": 15,
+  "merge_gate": "owner",
+  "workflow_allowed": false,
+  "workflow_agent_cap": 10,
+  "remote_control": true,
+  "tracker": "beads",
+  "evidence_dir": "~/Projects/{project}/evidence",
+  "secrets_dir": "~/.config/{project}",
+  "tiers": {"strong": "opus", "standard": "sonnet", "fast": "haiku"},
+  "role_tiers": {"pm": "strong", "tech-lead": "strong", "builder": "standard", "researcher": "fast"},
+  "modules": {},
+  "shared_files": []
+}

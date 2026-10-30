@@ -1,0 +1,12 @@
+{
+  "name": "meerkit",
+  "description": "meerkit: a role team for your Claude Code project.",
+  "owner": { "name": "Osman Alpay" },
+  "plugins": [
+    {
+      "name": "meerkit",
+      "source": "./",
+      "description": "Form and maintain a project's role team: pm, tech-lead and more, with an issue tracker as the shared record."
+    }
+  ]
+}

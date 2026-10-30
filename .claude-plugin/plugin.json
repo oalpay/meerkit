@@ -1,0 +1,9 @@
+{
+  "name": "meerkit",
+  "version": "0.1.0",
+  "description": "Form and maintain a project's role team: pm, tech-lead and more, with an issue tracker as the shared record.",
+  "license": "MIT",
+  "author": {
+    "name": "Osman Alpay"
+  }
+}
